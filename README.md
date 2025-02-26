@@ -22,5 +22,6 @@ At least two anchors per corridor ensure continuous localization, while the tag 
 The localization is based on Anchor2 and either Anchor1 or Anchor3, depending on the tag’s position.
 
 
-https://github.com/user-attachments/assets/21504638-022b-4e65-bd5f-69d1d208594e
+
+https://github.com/user-attachments/assets/67692708-576c-48a6-8247-06a3090aca3f
 
